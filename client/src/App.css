@@ -1,0 +1,19 @@
+/* Center the app content */
+.App {
+  text-align: center;
+}
+
+/* Add padding to the main content */
+.container {
+  padding-top: 20px;
+}
+
+/* Ensure cards have a subtle shadow */
+.card {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style disabled buttons */
+button:disabled {
+  cursor: not-allowed;
+}

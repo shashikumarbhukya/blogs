@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .blog {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+  }
+  
+  form div {
+    margin-bottom: 15px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
